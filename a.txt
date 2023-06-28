@@ -1,0 +1,10 @@
+Comandos
+    ver a versão do NODE
+npm init -y -> Cria um projeto com o nome da Pasta
+npm install -> Instala as dependencias e a nodemodules
+npm install express -> Instala o express
+npm install moongose -> Instal o moongose (Conectar o Mongo)
+
+
+npm install --save @types/node -D -> Instala os types
+npm i -D @types/node @types/express
